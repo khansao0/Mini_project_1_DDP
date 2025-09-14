@@ -14,7 +14,7 @@ Kelas: Sistem Informasi C'25
 Program ini merupakan mini project 1 berbasis Python yang dirancang untuk membantu pengguna mencatat dan mengelola stok cemilan secara praktis. Ketika dijalankan, program akan langsung menampilkan menu utama yang terdiri dari empat pilihan. Berikut penjelasan dari 4 pilihan menu utama dari program saya yang berjudul "Sistem Manajemen Stok Cemilan"  
 
   1. Tambah Cemilan
-       Menu ini digunakkan untuk menambahkan data cemilan baru ke dalam sistem. Pengguna akan diminta untuk memasukkan/ input:
+     Menu ini digunakkan untuk menambahkan data cemilan baru ke dalam sistem. Pengguna akan diminta untuk memasukkan/ input:
      - Nama Cemilan (bebas):
      - Rasa Cemilan (manis/asin/pedas):
      - Jumlah Stok (bebas):
