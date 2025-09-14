@@ -36,7 +36,10 @@ Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahk
       - Jumlah stok
       - Status
 Jika belum ada data yang tercatat, maka akan muncul pesan:
-"Belum ada cemilan yang dicatat nih."
+"Belum ada cemilan yang dicatat nih."  
+
+![Output_Mini_Project_1_lihat_daftar_cemilan_belum_ada_daftar](https://github.com/user-attachments/assets/54fccd74-6128-4801-bde0-7aa7d668f9e2)
+
 
   3. Hapus Cemilan (Delete)
 
