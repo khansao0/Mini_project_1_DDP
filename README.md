@@ -38,9 +38,6 @@ Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahk
 Jika belum ada data yang tercatat, maka akan muncul pesan:
 "Belum ada cemilan yang dicatat nih."  
 
-![Output_Mini_Project_1_lihat_daftar_cemilan_belum_ada_daftar](https://github.com/user-attachments/assets/54fccd74-6128-4801-bde0-7aa7d668f9e2)
-
-
   3. Hapus Cemilan (Delete)
 
      Menu ini memungkinkan pengguna untuk menghapus cemilan dari daftar berdasarkan nomor urut. Program akan menampilkan daftar cemilan terlebih dahulu, lalu meminta input nomor cemilan yang ingin dihapus.
@@ -85,6 +82,8 @@ Jika masuk ke pilihan kedua, maka program akan menampilkan seluruh data cemilan 
 - Status (ada/habis/expired)
 Namun, jika belum ada data yang dicatat atau list stok_cemilan masih kosong, maka akan muncul output dengan pesan:
 "Belum ada cemilan yang dicatat nih."
+
+![Output_Mini_Project_1_lihat_daftar_cemilan_belum_ada_daftar](https://github.com/user-attachments/assets/54fccd74-6128-4801-bde0-7aa7d668f9e2)
 
 ![Output_Mini_Project_1_lihat_daftar_cemilan](https://github.com/user-attachments/assets/ed93e450-7eae-46ed-b8cd-7ccd422c76c2)
   
