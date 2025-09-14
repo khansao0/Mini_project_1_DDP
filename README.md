@@ -24,6 +24,7 @@ Program ini merupakan mini project 1 berbasis Python yang dirancang untuk memban
 Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahkannya ke list stok_cemilan. Output yang muncul adalah pesan konfirmasi bahwa cemilan berhasil ditambahkan.
 
   2. Lihat Daftar Cemilan
+
 Pilihan ini digunakan untuk menampilkan semua data cemilan yang telah dicatat. Informasi yang ditampilkan meliputi:
       - Nomor urut
       - Nama cemilan
@@ -34,7 +35,8 @@ Jika belum ada data yang tercatat, maka akan muncul pesan:
 "Belum ada cemilan yang dicatat nih."
 
   3. Hapus Cemilan
-       Menu ini memungkinkan pengguna untuk menghapus cemilan dari daftar berdasarkan nomor urut. Program akan menampilkan daftar cemilan terlebih dahulu, lalu meminta input nomor cemilan yang ingin dihapus.
+
+     Menu ini memungkinkan pengguna untuk menghapus cemilan dari daftar berdasarkan nomor urut. Program akan menampilkan daftar cemilan terlebih dahulu, lalu meminta input nomor cemilan yang ingin dihapus.
 
 Jika nomor valid, data akan dihapus dan muncul pesan:
 "Oke, cemilan sudah dihapus."
@@ -43,7 +45,8 @@ Jika nomor tidak valid, akan muncul pesan:
 "Nomor tidak valid."  
 
   4. Keluar
-       Pilihan ini digunakan untuk keluar dari program. Setelah dipilih, program akan berhenti dan menampilkan pesan penutup yang ramah:
+
+     Pilihan ini digunakan untuk keluar dari program. Setelah dipilih, program akan berhenti dan menampilkan pesan penutup yang ramah:
 "Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"
 
 
