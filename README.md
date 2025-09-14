@@ -18,12 +18,14 @@ Contoh di flowchart kamu:
 - “Mulai” → sebagai titik awal program
 - “Selesai” → sebagai akhir program setelah proses konversi selesai
 
+
   2. Proses <br>
 Bentuk: Persegi panjang
 Fungsi: Menunjukkan aksi atau kegiatan yang dilakukan, seperti input data, perhitungan, atau tampilan hasil.
 Contoh di flowchart kamu:
 - “Simpan ke list stok_cemilan”
 - “Hapus dari list"
+
 
  3. Decision (Keputusan) <br>
 Bentuk: Belah ketupat (diamond)
@@ -32,12 +34,14 @@ Contoh di flowchart kamu:
 - “Apakah list kosong?”
 - “Apakah nomor valid?”
 
+
  4. Panah (Flowline) <br>
 Bentuk: Garis dengan ujung panah
 Fungsi: Menunjukkan arah alur proses dari satu komponen ke komponen lainnya.
 Contoh di flowchart kamu:
 - Dari “Tampilkan Menu (1/2/3/4)” menuju ke proses konversi
 - Dari “Tampilkan hasil” balik lagi ke “Tampilkan Menu (1/2/3/4)”
+
 
 5. Input/Output <br>
 Bentuk: Jajar genjang (parallelogram)
