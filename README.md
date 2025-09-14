@@ -69,8 +69,8 @@ Jika masuk ke pilihan pertama, maka pengguna akan diminta untuk menginput data c
 Setelah semua data diisi, program akan menyimpan informasi tersebut dalam bentuk tuple dan menambahkannya ke dalam list stok_cemilan. Jika proses berhasil, akan muncul output berupa pesan:
 "Yey! Cemilan berhasil ditambahkan!" 
 
-![Output_Mini_Project_1_tambah_cemilan_berhasil](https://github.com/user-attachments/assets/d2896c0d-9215-4330-b359-eca8ea7de6fd)  
-
+<img width="757" height="185" alt="image" src="https://github.com/user-attachments/assets/4f0dace0-9b5b-4c9b-9f17-cc09da13549e" />
+  
 # Pilihan Menu Kedua (Lihat Daftar Cemilan)   
 Jika masuk ke pilihan kedua, maka program akan menampilkan seluruh data cemilan yang sudah dicatat sebelumnya. Data yang ditampilkan akan seperti:
 - Nomor urut
