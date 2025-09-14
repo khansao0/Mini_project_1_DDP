@@ -18,7 +18,6 @@ Contoh di flowchart kamu:
 - “Mulai” → sebagai titik awal program
 - “Selesai” → sebagai akhir program setelah proses konversi selesai
 
-
   2. Proses <br>
 Bentuk: Persegi panjang
 Fungsi: Menunjukkan aksi atau kegiatan yang dilakukan, seperti input data, perhitungan, atau tampilan hasil.
