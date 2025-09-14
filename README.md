@@ -109,6 +109,8 @@ Jika pengguna memilih pilihan keempat, maka program akan berhenti dan menampilka
 # Tujuan Project  
 Alasan saya membuat program python ini "Sistem Manajemen Stok Cemilan" karena : <br> Program ini dibuat sebagai solusi sederhana untuk mencatat stok cemilan agar tidak ada yang lupa, terutama bagi pengguna yang suka nyemil tapi sering lupa status stoknya.
 
+# Terima Kasih
+
 
 
 
