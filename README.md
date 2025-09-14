@@ -15,7 +15,9 @@ Program ini menggunakan struktur while True untuk menjalankan menu secara berula
 
 Program ini merupakan mini project 1 berbasis Python yang dirancang untuk membantu pengguna mencatat dan mengelola stok cemilan secara praktis. Ketika dijalankan, program akan langsung menampilkan menu utama yang terdiri dari empat pilihan. Berikut penjelasan dari 4 pilihan menu utama dari program saya yang berjudul "Sistem Manajemen Stok Cemilan"  
 
-  1. Tambah Cemilan
+Program ini menerapkan tiga dari empat proses dasar CRUD (Create, Read, Delete)
+
+  1. Tambah Cemilan (Create)
 
      Menu ini digunakkan untuk menambahkan data cemilan baru ke dalam sistem. Pengguna akan diminta untuk memasukkan/ input:
      - Nama Cemilan (bebas):
@@ -25,7 +27,7 @@ Program ini merupakan mini project 1 berbasis Python yang dirancang untuk memban
 
 Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahkannya ke list stok_cemilan. Output yang muncul adalah pesan konfirmasi bahwa cemilan berhasil ditambahkan.
 
-  2. Lihat Daftar Cemilan
+  2. Lihat Daftar Cemilan (Read)
 
   Pilihan ini digunakan untuk menampilkan semua data cemilan yang telah dicatat. Informasi yang ditampilkan meliputi:
       - Nomor urut
@@ -36,7 +38,7 @@ Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahk
 Jika belum ada data yang tercatat, maka akan muncul pesan:
 "Belum ada cemilan yang dicatat nih."
 
-  3. Hapus Cemilan
+  3. Hapus Cemilan (Delete)
 
      Menu ini memungkinkan pengguna untuk menghapus cemilan dari daftar berdasarkan nomor urut. Program akan menampilkan daftar cemilan terlebih dahulu, lalu meminta input nomor cemilan yang ingin dihapus.
 
@@ -46,7 +48,7 @@ Jika nomor valid, data akan dihapus dan muncul pesan:
 Jika nomor tidak valid, akan muncul pesan:
 "Nomor tidak valid."  
 
-  4. Keluar
+  4. Keluar (Exit)
 
      Pilihan ini digunakan untuk keluar dari program. Setelah dipilih, program akan berhenti dan menampilkan pesan penutup yang ramah:
 "Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"
@@ -85,7 +87,7 @@ Namun, jika belum ada data yang dicatat atau list stok_cemilan masih kosong, mak
   
 
 # Pilihan Menu Ketiga (Hapus Daftar Cemilan)  
-Jika pengguna memilih pilihan ketiga, maka program akan menampilkan daftar cemilan yang tersedia beserta nomor urutnya. Pengguna diminta untuk memilih nomor cemilan yang ingin dihapus.  
+Jika pengguna memilih pilihan ketiga, maka program akan menampilkan daftar cemilan yang tersedia beserta nomor urutnya. Pengguna diminta untuk memilih nomor cemilan yang ingin dihapus. Program akan menampilkan daftar cemilan terlebih dahulu, lalu meminta input nomor yang ingin dihapus. Setelah penghapusan, akan muncul pesan konfirmasi.
 
 Jika nomor yang dimasukkan valid, maka data cemilan akan dihapus dan muncul pesan:
 "Oke, cemilan sudah dihapus."  
@@ -99,7 +101,10 @@ Namun jika nomor tidak sesuai atau di luar jangkauan, maka akan muncul output:
 Jika pengguna memilih pilihan keempat, maka program akan berhenti dan menampilkan pesan penutup:
 "Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"  
 
-![Output_Mini_Project_1_input_keluar](https://github.com/user-attachments/assets/11a4715c-490a-4cac-9f38-4c8a7ca70998)
+![Output_Mini_Project_1_input_keluar](https://github.com/user-attachments/assets/11a4715c-490a-4cac-9f38-4c8a7ca70998)  
+
+# Tujuan Project  
+Alasan saya membuat program python ini "Sistem Manajemen Stok Cemilan" karena : <br> Program ini dibuat sebagai solusi sederhana untuk mencatat stok cemilan agar tidak ada yang lupa, terutama bagi pengguna yang suka nyemil tapi sering lupa status stoknya.
 
 
 
