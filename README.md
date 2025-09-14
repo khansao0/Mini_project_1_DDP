@@ -7,7 +7,44 @@ Kelas: Sistem Informasi C'25
 
 # Flowchart Sistem Manajemen Stok Cemilan
 ![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah_2509116113](https://github.com/user-attachments/assets/7918d206-d337-43e2-8f34-4f0b01d2b793)
-  
+
+# Penjelasan Komponen Flowchart
+Flowchart adalah diagram alur yang digunakan untuk menggambarkan proses atau logika program secara visual. Setiap bentuk dalam flowchart punya arti dan fungsi tersendiri. Berikut komponen-komponen utamanya:
+
+  1. Terminator (Start/End) <br>
+Bentuk: Oval atau elips
+Fungsi: Menandai titik awal dan akhir dari suatu proses.
+Contoh di flowchart kamu:
+- “Mulai” → sebagai titik awal program
+- “Selesai” → sebagai akhir program setelah proses konversi selesai
+
+  2. Proses <br>
+Bentuk: Persegi panjang
+Fungsi: Menunjukkan aksi atau kegiatan yang dilakukan, seperti input data, perhitungan, atau tampilan hasil.
+Contoh di flowchart kamu:
+- “Simpan ke list stok_cemilan”
+- “Hapus dari list"
+
+ 3. Decision (Keputusan) <br>
+Bentuk: Belah ketupat (diamond)
+Fungsi: Menunjukkan titik pengambilan keputusan dengan dua atau lebih kemungkinan hasil (ya/tidak, valid/tidak valid, dll).
+Contoh di flowchart kamu:
+- “Apakah list kosong?”
+- “Apakah nomor valid?”
+
+ 4. Panah (Flowline) <br>
+Bentuk: Garis dengan ujung panah
+Fungsi: Menunjukkan arah alur proses dari satu komponen ke komponen lainnya.
+Contoh di flowchart kamu:
+- Dari “Tampilkan Menu (1/2/3/4)” menuju ke proses konversi
+- Dari “Tampilkan hasil” balik lagi ke “Tampilkan Menu (1/2/3/4)”
+
+5. Input/Output <br>
+Bentuk: Jajar genjang (parallelogram)
+Fungsi: Menunjukkan aktivitas input dari pengguna atau output dari sistem.
+Contoh di flowchart kamu:
+- “Tampilkan Menu (1/2/3/4)”
+- “Input Rasa Cemilan”
 
 # Output Menu  
 Program ini menggunakan struktur while True untuk menjalankan menu secara berulang hingga pengguna memilih keluar. Setiap pilihan menu memiliki fungsi spesifik  
