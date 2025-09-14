@@ -6,7 +6,8 @@ NIM  : 2509116113
 Kelas: Sistem Informasi C'25
 
 # Flowchart Sistem Manajemen Stok Cemilan  
-Saya menggunakan 200% zoom agar jpeg flowchart nya HD/tidak buram
+Saya menggunakan 200% zoom agar jpeg flowchart nya HD/tidak buram  
+
 ![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah_2509116113](https://github.com/user-attachments/assets/7918d206-d337-43e2-8f34-4f0b01d2b793)
 
 # Penjelasan Komponen Flowchart
