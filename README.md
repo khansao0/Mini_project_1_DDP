@@ -81,7 +81,8 @@ Jika masuk ke pilihan kedua, maka program akan menampilkan seluruh data cemilan 
 Namun, jika belum ada data yang dicatat atau list stok_cemilan masih kosong, maka akan muncul output dengan pesan:
 "Belum ada cemilan yang dicatat nih."
 
-![Output_Mini_Project_1_lihat_daftar_cemilan](https://github.com/user-attachments/assets/a7f5eb7d-ff20-4cb2-915f-430e69acc60e)  
+![Output_Mini_Project_1_lihat_daftar_cemilan](https://github.com/user-attachments/assets/ed93e450-7eae-46ed-b8cd-7ccd422c76c2)
+  
 
 # Pilihan Menu Ketiga (Hapus Daftar Cemilan)  
 Jika pengguna memilih pilihan ketiga, maka program akan menampilkan daftar cemilan yang tersedia beserta nomor urutnya. Pengguna diminta untuk memilih nomor cemilan yang ingin dihapus.  
