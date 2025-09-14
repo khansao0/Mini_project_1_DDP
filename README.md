@@ -52,7 +52,8 @@ Jika nomor tidak valid, akan muncul pesan:
 "Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"
 
 # Bagaimana jika saya menginput Menu selain dari (1/2/3/4) ?  
-![Output_Mini_Project_1_tidak_valid](https://github.com/user-attachments/assets/ccfb6d73-17da-4f86-ab2e-24d8e3b881ba)  
+![Output_Mini_Project_1_tidak_valid](https://github.com/user-attachments/assets/9cffb83a-f225-4559-a294-aeb6ae2d6729)
+
 
 Dalam program berbasis menu, penting untuk memastikan bahwa pengguna hanya dapat memilih opsi yang tersedia yaitu (1/2/3/4).  
 -  Tujuan : Mencegah program error karena input yang tidak dikenali. <br> Menjaga alur program tetap berjalan tanpa gangguan.
