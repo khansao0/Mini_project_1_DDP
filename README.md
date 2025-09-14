@@ -9,6 +9,8 @@ Kelas: Sistem Informasi C'25
 ![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah](https://github.com/user-attachments/assets/4beda366-16b9-4ad0-aaa5-fdf01f0c2ccf)  
 
 # Output Menu  
+Program ini menggunakan struktur while True untuk menjalankan menu secara berulang hingga pengguna memilih keluar. Setiap pilihan menu memiliki fungsi spesifik  
+
 ![Output_Mini_Project_1](https://github.com/user-attachments/assets/399d9535-79c8-4669-92ed-4f57c2131d43)  
 
 Program ini merupakan mini project 1 berbasis Python yang dirancang untuk membantu pengguna mencatat dan mengelola stok cemilan secara praktis. Ketika dijalankan, program akan langsung menampilkan menu utama yang terdiri dari empat pilihan. Berikut penjelasan dari 4 pilihan menu utama dari program saya yang berjudul "Sistem Manajemen Stok Cemilan"  
@@ -55,7 +57,50 @@ Jika nomor tidak valid, akan muncul pesan:
 Dalam program berbasis menu, penting untuk memastikan bahwa pengguna hanya dapat memilih opsi yang tersedia yaitu (1/2/3/4).  
 -  Tujuan : Mencegah program error karena input yang tidak dikenali. <br> Menjaga alur program tetap berjalan tanpa gangguan.
 
-Jika pengguna memasukkan angka selain 1, 2, 3, atau 4, program akan menampilkan pesan berikut: <br> 
+Jika pengguna memasukkan angka selain 1, 2, 3, atau 4, program akan menampilkan pesan seperti: <br> "Pilihan tidak dikenal, coba lagi." 🚫  
+
+# Pilihan Menu Pertama (Tambah Cemilan)  
+Jika masuk ke pilihan pertama, maka pengguna akan diminta untuk menginput data cemilan yang ingin dicatat. Data yang dimasukkan meliputi:
+- Nama cemilan
+- Rasa cemilan (manis/asin/pedas)
+- Jumlah stok
+- Status stok (ada/habis/expired)
+Setelah semua data diisi, program akan menyimpan informasi tersebut dalam bentuk tuple dan menambahkannya ke dalam list stok_cemilan. Jika proses berhasil, akan muncul output berupa pesan:
+"Yey! Cemilan berhasil ditambahkan!" 
+
+![Output_Mini_Project_1_tambah_cemilan_berhasil](https://github.com/user-attachments/assets/d2896c0d-9215-4330-b359-eca8ea7de6fd)  
+
+# Pilihan Menu Kedua (Lihat Daftar Cemilan)   
+Jika masuk ke pilihan kedua, maka program akan menampilkan seluruh data cemilan yang sudah dicatat sebelumnya. Data yang ditampilkan akan seperti:
+- Nomor urut
+- Nama cemilan (nama cemilan yang di input)
+- Rasa (manis/asin/pedas)
+- Jumlah stok (berapa)
+- Status (ada/habis/expired)
+Namun, jika belum ada data yang dicatat atau list stok_cemilan masih kosong, maka akan muncul output dengan pesan:
+"Belum ada cemilan yang dicatat nih."
+
+![Output_Mini_Project_1_lihat_daftar_cemilan](https://github.com/user-attachments/assets/a7f5eb7d-ff20-4cb2-915f-430e69acc60e)  
+
+# Pilihan Menu Ketiga (Hapus Daftar Cemilan)  
+Jika pengguna memilih pilihan ketiga, maka program akan menampilkan daftar cemilan yang tersedia beserta nomor urutnya. Pengguna diminta untuk memilih nomor cemilan yang ingin dihapus.  
+
+Jika nomor yang dimasukkan valid, maka data cemilan akan dihapus dan muncul pesan:
+"Oke, cemilan sudah dihapus."  
+
+Namun jika nomor tidak sesuai atau di luar jangkauan, maka akan muncul output:
+"Nomor tidak valid."  
+
+![Output_Mini_Project_1_hapus_daftar_cemilan](https://github.com/user-attachments/assets/187999a9-98fd-47ba-a9f7-55bd004fb3ad)  
+
+# Pilihan Menu Keempat (Keluar)  
+Jika pengguna memilih pilihan keempat, maka program akan berhenti dan menampilkan pesan penutup:
+"Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"  
+
+![Output_Mini_Project_1_input_keluar](https://github.com/user-attachments/assets/11a4715c-490a-4cac-9f38-4c8a7ca70998)
+
+
+
 
 
 
