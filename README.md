@@ -8,7 +8,7 @@ Kelas: Sistem Informasi C'25
 # Flowchart Sistem Manajemen Stok Cemilan
 ![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah](https://github.com/user-attachments/assets/4beda366-16b9-4ad0-aaa5-fdf01f0c2ccf)  
 
-# Output Program  
+# Output Menu  
 ![Output_Mini_Project_1](https://github.com/user-attachments/assets/399d9535-79c8-4669-92ed-4f57c2131d43)  
 
 Program ini merupakan mini project 1 berbasis Python yang dirancang untuk membantu pengguna mencatat dan mengelola stok cemilan secara praktis. Ketika dijalankan, program akan langsung menampilkan menu utama yang terdiri dari empat pilihan. Berikut penjelasan dari 4 pilihan menu utama dari program saya yang berjudul "Sistem Manajemen Stok Cemilan"  
@@ -25,7 +25,7 @@ Setelah data diinput, program akan menyimpannya dalam bentuk tuple dan menambahk
 
   2. Lihat Daftar Cemilan
 
-Pilihan ini digunakan untuk menampilkan semua data cemilan yang telah dicatat. Informasi yang ditampilkan meliputi:
+  Pilihan ini digunakan untuk menampilkan semua data cemilan yang telah dicatat. Informasi yang ditampilkan meliputi:
       - Nomor urut
       - Nama cemilan
       - Rasa
@@ -49,6 +49,13 @@ Jika nomor tidak valid, akan muncul pesan:
      Pilihan ini digunakan untuk keluar dari program. Setelah dipilih, program akan berhenti dan menampilkan pesan penutup yang ramah:
 "Program ditutup. Jangan lupa beli cemilan kalau sudah habis ya!"
 
+# Bagaimana jika saya menginput Menu selain dari (1/2/3/4) ?  
+![Output_Mini_Project_1_tidak_valid](https://github.com/user-attachments/assets/ccfb6d73-17da-4f86-ab2e-24d8e3b881ba)  
+
+Dalam program berbasis menu, penting untuk memastikan bahwa pengguna hanya dapat memilih opsi yang tersedia yaitu (1/2/3/4).  
+-  Tujuan : Mencegah program error karena input yang tidak dikenali. <br> Menjaga alur program tetap berjalan tanpa gangguan.
+
+Jika pengguna memasukkan angka selain 1, 2, 3, atau 4, program akan menampilkan pesan berikut: <br> 
 
 
 
