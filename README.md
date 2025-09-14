@@ -16,6 +16,13 @@ Deskripsi Flowchart
    Program menampilkan pesan pembuka berupa "selamat datang di stok cemilan asa!, ini adalah program buat nyatet cemilan kamu biar ga lupa^^"
    → Komponen: Jajar Genjang (Output)
 
-3. 
+3. Tampilkan menu utama (1/2/3/4)
+   Menu berisi empat pilihan: tambah cemilan, lihat daftar, hapus cemilan, dan keluar.
+   → Komponen: Jajar Genjang (Output)
+
+4. 
+
+
+
 
 
