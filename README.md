@@ -6,7 +6,8 @@ NIM  : 2509116113
 Kelas: Sistem Informasi C'25
 
 # Flowchart Sistem Manajemen Stok Cemilan
-![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah](https://github.com/user-attachments/assets/4beda366-16b9-4ad0-aaa5-fdf01f0c2ccf)  
+![Flowchart_Mini_Project_1_Qonitah_Khansa'_Ayu_Madani_Alamsyah_2509116113](https://github.com/user-attachments/assets/7918d206-d337-43e2-8f34-4f0b01d2b793)
+  
 
 # Output Menu  
 Program ini menggunakan struktur while True untuk menjalankan menu secara berulang hingga pengguna memilih keluar. Setiap pilihan menu memiliki fungsi spesifik  
