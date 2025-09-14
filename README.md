@@ -1,5 +1,5 @@
 # Mini project 1 ( DDP )
-PRAKTIKUM MINI PROJECT DDP - Sistem Manajemen Stok Cemilan 
+PRAKTIKUM MINI PROJECT 1 DDP - Sistem Manajemen Stok Cemilan 
 
 Nama : Qonitah Khansa' Ayu Madani Alamsyah  
 NIM  : 2509116113  
